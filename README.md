@@ -1,4 +1,4 @@
-# Iris Flower Classification — CodeAlpha Internship Task
+# Iris Flower Classification
 
 ## Objective
 Build a machine learning model that classifies iris flowers into species using their measurements.
